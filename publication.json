@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "status": "verified",
+  "verifiedUTC": "2026-11-05T18:43:25.122087+00:00",
+  "build": "astra-0e6d538a83c6",
+  "liveURL": "https://brockliddicoat.github.io/theseus-astra-preview/?v=astra-0e6d538a83c6",
+  "codePublishCommit": "81633cf68a4d7985cc3b411d360587b33a1ad1a0",
+  "sourceCommit": "3e90a1fcd866e31aeb53211ef2dd31c5cb2cb01e",
+  "baseline": "7d8f926ebb8fca1653b3d30509ef6f8f60ac093e",
+  "htmlSHA256": "e76150172259d05254f15c3f563991ef944f7c2e9be071aa7e98755fd0a6ff3d",
+  "servedHTMLMatches": true,
+  "sourceZIP_SHA256": "929f1c4917f5e3529c5b87a0e42808f4ed9fc6e4d018e18d57ab38afe3a0f079",
+  "servedSourceMatches": true,
+  "servedManifestBuild": "astra-0e6d538a83c6",
+  "remoteBrowser": {
+    "sceneCount": 42,
+    "sampledFrames": 126,
+    "runtimeErrors": [],
+    "offStageText": [],
+    "mobile": {
+      "size": {
+        "width": 440,
+        "scroll": 440
+      },
+      "close": {
+        "x": 774.0625,
+        "y": 37.5,
+        "width": 64.9375,
+        "height": 40
+      },
+      "notesPreserved": true
+    }
+  },
+  "localRegression": {
+    "checksPassed": 35,
+    "errors": [],
+    "WebGL": "SwiftShader software rendering",
+    "independentPressAndExplode": true
+  },
+  "reproduction": {
+    "result": "pass",
+    "build": "astra-0e6d538a83c6",
+    "htmlSHA256": "e76150172259d05254f15c3f563991ef944f7c2e9be071aa7e98755fd0a6ff3d",
+    "method": "Extracted source ZIP into a separate directory and rebuilt with included checked spatial bundle",
+    "identicalHTML": true,
+    "identicalVersionManifest": true
+  },
+  "standingRequirementsCloseout": {
+    "finalRegression": "completed on this exact build",
+    "publication": "completed against actual Pages build, served hashes and remote browser"
+  },
+  "acceptanceBoundary": "Completes final runtime/publication standing checks. Does not close the 7 partial, 3 pending or 7 deferred original clauses, or substitute for user acceptance."
+}

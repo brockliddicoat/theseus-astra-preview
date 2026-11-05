@@ -83,3 +83,7 @@ The records below remain open. They are not hidden by the new scene mapping or t
 The source package excludes raw scans, `.git`, installed dependencies and scratch outputs. The shell asset is the authored baseline derivative, not the raw scan. There is no Claude outreach and no Sol implementation code in this independent build.
 
 The lead and worker model settings are attested from the actual local session records: Astra ultra lead, three Astra max workers. The original baseline commit is `7d8f926ebb8fca1653b3d30509ef6f8f60ac093e`.
+
+## Final live verification
+
+The actual hosted build, HTML hash and source ZIP hash match this release. All 42 hosted scenes pass the browser check. The two standing checks left partial at the immutable ledger freeze—final regression and publication—are completed by `publication.json`. The original clause counts and unresolved design/evidence boundaries remain unchanged.
