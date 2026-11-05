@@ -1,12 +1,36 @@
 {
-  "id": "astra-e5d88aa6d325",
-  "builtUTC": "2026-11-05T16:13:51.128826+00:00",
+  "id": "astra-0e6d538a83c6",
   "baseline": "7d8f926ebb8fca1653b3d30509ef6f8f60ac093e",
   "sourceFiles": {
-    "film\\engine.js": "4b701374371ac264f8fbdc810276c69b71c0cd31952dbe6ac387f902c7ce313e",
-    "film\\intro.js": "2f58a1405fa6ab1032d28afe84ddfb33a8cc24ed4e1ae612d16126b90d10f26e",
-    "film\\systems.js": "17a2db14be85edf9b488bcfd2d4ab32e8b2ae44cbebae8359bb3c0f95f6fa28f",
-    "film\\player.js": "51d486e70c2ad80b46a982b77d16046c6634dd7ed35deaaf965aa0b01c2d4374"
+    "film/engine.js": "4b701374371ac264f8fbdc810276c69b71c0cd31952dbe6ac387f902c7ce313e",
+    "film/model.js": "88421f7acd64ad0213fcb17623594688c48f495a10cb3c8f64c7e10e3a1cbae8",
+    "film/intro.js": "3516b7805475cdb97399218b0bb565ed21401e9d6c7d3db5fa73b80958df1d4a",
+    "film/budget.js": "4fc3717d356647805920a932cf7dcd30ae68e0dcdee8ad680efec89654e63ae1",
+    "film/mechanics.js": "ef33300e899337a58bd11acde61892837b799243fe34cafabd169466cecaee6b",
+    "film/loadpaths.js": "84d820a5725bc9cc98376aad5a60f789d60c904ef05a03b71bf63a045b6d58d0",
+    "film/systems.js": "d44c48f55c82a68c0a1aac7cea981a05d71eec25e3e8bae11207032e550c52ca",
+    "film/spatial.bundle.js": "23b9b200586b6bf5337921ae2a1ccf40b911edb2e25306f8a150a8b082edac4b",
+    "film/player.js": "68e9fa77d34afdc12cb0baa4345ede429c2ac79c633fcafa340310dad1332ea1",
+    "film/spatial-ui.js": "51d7540e279fac6898017c36c91250af55c42e8ef98126975b4af676d56ad47d",
+    "film/index.html": "e1cfaf6433528e3b1e0ea5ee28ebf84bac8bce4c6bf5c4ea2620b3f3e47c8e7e",
+    "film/build.py": "47503b96bed8ebaec24de739d471499692bac2b452aae7de573cd9f1d6edbb00",
+    "film/ledger.json": "b234d76a05633a2b29f039700bd39639d34c5a5c538218ba70ea5b1336c6ecba",
+    "film/data/verified.json": "248d9a8174234a1ccd823fac214e362a1d1d1bb10f92d147fbe9eadbc431f332",
+    "film/data/x2f.json": "81a5bd3e0d31a6ed7aea1b97d0e33a0eaadce12869998bf8d35ecb127d8a245c",
+    "film/data/spec.json": "b9aed2fde47c5abd7c2592c5d59d477920059238c1d94a5310fc844f3054b98d",
+    "film/data/board-spec.json": "2e3b202fe8379d6c6d00b3591d94b61bced6bcea1cda68d984a3c4300485c9f3",
+    "deck/src/00-head.html": "d464116fa96dfbae9188a07e70d3c61f3228744153f1132a2d2d58bbc3265baa",
+    "deck/src/03-parts.js": "3fa10356854b42571f73423a7f614e85c2769619b747ba1ac49cd75349c182e7",
+    "3d/lib/studio.js": "d94f579cc3d62f8c9276b61c82f809484b0aeaea8f2faf65fc55e95c906f3784",
+    "3d/parts/lib/materials.js": "6807af0abf670b26cea64bc283c85ea650d0494385dfabd79ad483b437e2edba",
+    "3d/parts/lib/geom.js": "ecd8953b3dc81273b27d0d2aface3d9a71ab61ad08fe94473bd01bf1b5074181",
+    "3d/parts/lib/section.js": "cb892e7d1dc72d53ca74233c359ac8c84281adab3ad75af43fbe0efa6091507e",
+    "3d/parts/geo/gt01.geo.js": "f55e2ba9a3f92177cdb8c709b9b0e7db03b4f2537fcb1bca1cd8ca0d62ba6e9e",
+    "3d/parts/gt01.js": "05ae1b13ad7770e98f24bd93f1036728060f1d840974feec27ab0005f5c92a1f",
+    "3d/parts/scrollwheel.js": "fed36cd66eb8240c9ff9196ed3cbda3cf724763a009757b4837bf3c413152cc1",
+    "film/data/shell-mesh.json": "f69d018c0b9bffa0a2c382b4db27a36df9bd133c49dbc79a6c3168e37016c880",
+    "film/spatial-shell.js": "ed996831293817de9e18c1f3f0e61fb5dc23b84861439212239aed28932b2c65",
+    "film/spatial-entry.js": "ee9151ac5a9740ecd5916705de65b407afcf3b8f2496f2a0dab9e703224dec5e"
   },
-  "htmlSHA256": "148f8923cdcda106cc30520f0af5bb4e30b0f79c9dedc37c30bcb1a036f784e9"
+  "htmlSHA256": "e76150172259d05254f15c3f563991ef944f7c2e9be071aa7e98755fd0a6ff3d"
 }
