@@ -1,0 +1,12 @@
+{
+  "id": "astra-e5d88aa6d325",
+  "builtUTC": "2026-11-05T16:13:51.128826+00:00",
+  "baseline": "7d8f926ebb8fca1653b3d30509ef6f8f60ac093e",
+  "sourceFiles": {
+    "film\\engine.js": "4b701374371ac264f8fbdc810276c69b71c0cd31952dbe6ac387f902c7ce313e",
+    "film\\intro.js": "2f58a1405fa6ab1032d28afe84ddfb33a8cc24ed4e1ae612d16126b90d10f26e",
+    "film\\systems.js": "17a2db14be85edf9b488bcfd2d4ab32e8b2ae44cbebae8359bb3c0f95f6fa28f",
+    "film\\player.js": "51d486e70c2ad80b46a982b77d16046c6634dd7ed35deaaf965aa0b01c2d4374"
+  },
+  "htmlSHA256": "148f8923cdcda106cc30520f0af5bb4e30b0f79c9dedc37c30bcb1a036f784e9"
+}
